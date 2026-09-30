@@ -32,5 +32,5 @@ Enfants, Praticiens (un fichier JS par onglet, `app.js` gère la navigation et l
 ## Mise en ligne
 
 - Adresse : https://sps-g36-parto.professeurpetitchat.com/
-- Le 30/09/2026 le site en ligne répondait 404 : déploiement à vérifier (workflow `deploy.yml`,
-  chaque `git push` publie le site).
+- Dépôt GitHub public : https://github.com/Paulo7120/partogramme (mis en ligne le 30/09/2026,
+  workflow `deploy.yml` vérifié au clic).
